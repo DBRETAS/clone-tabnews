@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Criação de clonagem do site tabnews  https://www.tabnews.com.br",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBRETAS/clone-tabnews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DBRETAS/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/DBRETAS/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
