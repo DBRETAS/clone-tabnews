@@ -4,8 +4,10 @@
   "description": "Criação de clonagem do site tabnews  https://www.tabnews.com.br",
   "main": "index.js",
   "scripts": {
-    "dev":"next dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
